@@ -1,0 +1,1 @@
+client = Groq(api_key='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')
