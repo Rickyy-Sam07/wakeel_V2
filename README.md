@@ -57,7 +57,7 @@ Features:
 * Retrieves top-K relevant legal documents for legal queries
 * Uses LLaMA 3 via Groq for final, structured answers
 
-You can use the **`.god`** keyword for admin-level debugging and full RAG output preview.
+You can use the **`special keys`** keyword for admin-level debugging and full RAG output preview.
 
 ---
 
